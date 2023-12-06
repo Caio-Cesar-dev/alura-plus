@@ -3,8 +3,10 @@
 ![aluraPlus](https://github.com/Caio-Cesar-dev/alura-plus/assets/148168603/4c209e17-512e-413e-b328-fbd6a41b5cae)
 
 ## Este é o alura-plus, site desenvolvido durante o curso na Alura.
+Este site tem por objetivo o treinamento na utilização do HTML e CSS.
+O site está dividido em sections, onde a primeira apresenta o marketing do produto e as demais apresentam as caracteristicas do produto.
 
-### você pode conferir como ficou o desenvolvimento completo em:
+### Conferir como ficou o desenvolvimento completo em:
 https://caio-cesar-dev.github.io/alura-plus/
 
 ### Tecnologias utilizadas:
